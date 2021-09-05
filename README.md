@@ -5,6 +5,10 @@
               
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SlChaBy/WhatsAlexa-BaileysApi)
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TOXICDEVIL/WhatsAlexa)
+
+1= 1st one is Sl chaby_______Baileys Api    
+2= 2nd one is TOXIC-DEWIL____Baileys Api 
+
 ## 💫 Deploy WhatsAlexa on Heroku 💫
 
 [![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie-1)
