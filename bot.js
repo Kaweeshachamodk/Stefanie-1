@@ -253,7 +253,7 @@ async function Alexa () {
         console.log(`${chalk.green.bold('WhatAlexa')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
 
-${chalk.blue.italic('Made By TOXIC-DEVIL Kaweesha Chamod modified it')}`);
+${chalk.blue.italic('Made By TOXIC-DEVIL')}`);
     });
     
 
@@ -289,7 +289,7 @@ ${chalk.blue.italic('Made By TOXIC-DEVIL Kaweesha Chamod modified it')}`);
         });
 
         console.log(
-            chalk.green.bold('🎉 BOT IS NOW ACTIVE IN YOUR ACCOUNT!Thanks for using WhatsAlexa modified version')
+            chalk.green.bold('🎉 BOT IS NOW ACTIVE IN YOUR ACCOUNT!')
         );
         
          if (config.LANG == 'EN') {
