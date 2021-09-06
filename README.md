@@ -1,4 +1,4 @@
-
+##Stefanie Modified version 
 ## 🪀 Get Baileys-Api 🪀           
   if you using Iphone or Android phone for scan Qr code **turn on your browser DesctopMod**
                ( [how to turn on DesctopMod](https://youtu.be/BPzk5WnvmcI) )
