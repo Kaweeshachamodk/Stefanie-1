@@ -120,7 +120,7 @@
         },
         "RBG_API": {
             "description": "Removes the background of the photos. Get Api https://remove.bg",
-            "required": rsGwzRGyrXMCNyfKev6Ywhjp
+            "required": false
         }
     },
     "addons": [{
