@@ -14,7 +14,7 @@
         },
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 9199xxxxxxxx ( This is an Example of Indian number +91 )",
-            "required": 94779529221
+            "required": false
         },
         "AUTO_BIO": {
             "description": "Type 'true' Iff the bot is running in  Heroku Else type 'false'.",
@@ -54,7 +54,7 @@
         "SEND_READ": {
             "description": "The bot reads the incoming messages ( only commands sent by others so privacy is not breaking there ).",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "HEROKU": {
             "description": "Type 'true' Iff the bot is running in  Heroku Else type 'false'.",
@@ -120,7 +120,7 @@
         },
         "RBG_API": {
             "description": "Removes the background of the photos. Get Api https://remove.bg",
-            "required": false
+            "required": rsGwzRGyrXMCNyfKev6Ywhjp
         }
     },
     "addons": [{
