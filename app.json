@@ -1,11 +1,11 @@
 {
     "name": "Stefanie-1",
     "description": "WhatsAlexa is a Helper WhatsApp Bot Written By @TOXIC-DEVIL with Modifiying as public @MrChaby. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].",
-    "logo": "https://i.ibb.co/KGMms2Z/Whats-Alexa.jpg",
+    "logo": "https://telegra.ph/file/fbb8f75bf5f7f477ff92d.jpg",
     "keywords": ["whatsapp", "Voice", "Alexa", "WhatsAlexa", "bot", "api", "ai"],
     "repository": "https://github.com/Kaweeshachamodk/Stefanie-1",
-    "website":   "https://github.com/MrChaby",
-    "success_url": "https://github.com/MrChaby",
+    "website":   "https://github.com/Kaweeshachamodk",
+    "success_url": "https://github.com/Kaweeshachamodk",
     "stack": "container",
     "env": {
         "SESSION": {
@@ -15,11 +15,17 @@
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 9199xxxxxxxx ( This is an Example of Indian number +91 )",
             "required": false
+            "value": ",0,94779529221"
         },
         "LANGUAGE": {
             "description": "Bot languages. Malayalam => ML, Indonesia => ID, English => EN ( Enter any one only )",
             "required": true,
             "value": "EN"
+        },
+        "AUTO_BIO": {
+            "description": "Bot languages. Malayalam => ML, Indonesia => ID, English => EN ( Enter any one only )",
+            "required": true,
+            "value": "true"
         },
         "BOT_STATUS": {
             "description": "Type the status of bot, statuses: online => Always Shows the online, offline => Always Shows offline, typing => Always Shows typing, recording => Always Shows recording.. NOTE : THE STATUS WILL BE PERMANENT, UNTIL THE BOT IS ALIVE / RUNNING / WORKING",
